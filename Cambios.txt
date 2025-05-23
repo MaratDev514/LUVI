@@ -2,7 +2,6 @@
 Cambio Luis
 
 cambio victor
-<<<<<<< HEAD
 
 
 
@@ -14,5 +13,3 @@ cambio-2
 Cambio 5
 
 cambio-1
-=======
->>>>>>> parent of 40ae3f6 (Merge branch 'main' of https://github.com/MaratDev514/LUVI)
