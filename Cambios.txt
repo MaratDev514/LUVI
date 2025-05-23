@@ -2,17 +2,17 @@
 Cambio Luis
 
 cambio victor
+<<<<<<< HEAD
 
 
 
 
 cambios a commit antes de push
 
-<<<<<<< HEAD
 cambio-1
 cambio-2
 Cambio 5
 
-=======
 cambio-1
->>>>>>> parent of 5a7b6f6 (Update Cambios.txt)
+=======
+>>>>>>> parent of 40ae3f6 (Merge branch 'main' of https://github.com/MaratDev514/LUVI)
